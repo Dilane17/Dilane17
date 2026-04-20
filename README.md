@@ -1,22 +1,40 @@
 ## Hi there 👋
 
-Full-stack developer building products that solve real business problems. I focus on shipping quality applications with clean architecture and great UX.
+I build full-stack web applications that solve real business problems.
 
-### Current Focus
+### 🚀 About Me
 
-Building a **stock management application** for small businesses—streamlining inventory tracking and providing real-time insights.
+Full-stack developer working across the entire stack — from backend logic to clean, responsive interfaces.
 
-### Tech Stack
+I focus on building applications that are simple, reliable, and actually useful in real-world scenarios.
 
-React • Next.js • NestJS • TailwindCSS • PostgreSQL
+### 📦 Current Project
 
-### What I Value
+**Stock management app for small businesses**
 
-- Shipping features that matter
-- Clean, maintainable code
-- User-centered design
-- Continuous improvement
+- Real-time inventory tracking  
+- Smart stock insights  
+- Designed for simplicity and reliability  
+
+**Tech**: React, Next.js, NestJS, TailwindCSS
+
+### 🛠️ Tech Stack
+
+- Frontend: React, Next.js, TailwindCSS  
+- Backend: NestJS  
+- Database: PostgreSQL  
+- Tools: TypeScript, Git, REST APIs  
+
+### ⚡ Approach
+
+- Build → Test → Improve → Repeat  
+- Focus on real use-cases, not just features  
+- Keep things simple and maintainable  
+
+### 📂 Projects
+
+Check out my repositories to see what I’m building.
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilane17&show_icons=true&theme=default)](https://github.com/Dilane17)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilane17&show_icons=true)
