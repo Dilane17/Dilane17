@@ -35,6 +35,11 @@ I focus on building applications that are simple, reliable, and actually useful 
 
 Check out my repositories to see what I’m building.
 
+### 🌐 Portfolio
+
+- Portfolio (FR): [dylan-dev.me](https://www.dylan-dev.me)
+- Case studies: [Ares Drive](https://www.dylan-dev.me/projects/ares-drive) · [ASMI Transfert](https://www.dylan-dev.me/projects/asmi-transfert) · [Mayylo](https://www.dylan-dev.me/projects/mayylo)
+
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilane17&show_icons=true)
