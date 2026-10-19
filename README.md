@@ -39,6 +39,8 @@ Check out my repositories to see what I’m building.
 
 - Portfolio (FR): [dylan-dev.me](https://www.dylan-dev.me)
 - Case studies: [Ares Drive](https://www.dylan-dev.me/projects/ares-drive) · [ASMI Transfert](https://www.dylan-dev.me/projects/asmi-transfert) · [Mayylo](https://www.dylan-dev.me/projects/mayylo)
+- Services: [Développeur Next.js freelance (Europe & Afrique)](https://www.dylan-dev.me/services/developpeur-nextjs-freelance-europe-afrique) · [Création de site vitrine et landing page](https://www.dylan-dev.me/services/creation-site-vitrine-landing-page-freelance)
+- Blog: [SEO technique avec Next.js : metadata, sitemap, JSON-LD](https://www.dylan-dev.me/blog/seo-technique-nextjs-metadata-sitemap-json-ld)
 
 ---
 
